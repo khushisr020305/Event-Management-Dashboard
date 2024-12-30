@@ -32,7 +32,7 @@ Backend Development
  ○ Update Task Status
  Integration(ongoing)
  1. Integrate the frontend with the backend APIs to fetch and display real-time
- data.
+ data.(ongoing)
  2. Ensure smooth user interactions, such as:
  ○ Displaying success/error messages for API calls.
  ○ Loading indicators while waiting for API responses.
